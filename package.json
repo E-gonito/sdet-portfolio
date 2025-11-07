@@ -1,0 +1,26 @@
+{
+  "name": "sdet-portfolio",
+  "version": "1.0.0",
+  "description": "Full-stack SDET test platform. Demos UI/API/DB testing, CI/CD, Docker, Operational Resilience, Performance, Accessibility, and AI Safety",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-gonito/sdet-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/E-gonito/sdet-portfolio/issues"
+  },
+  "homepage": "https://github.com/E-gonito/sdet-portfolio#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
